@@ -6,7 +6,7 @@ Android currency converter project (LeiConverter v4) with BNM exchange rates, cr
 ## Conventions
 - File names: lowercase, hyphens, no spaces
 - Every wiki page starts with YAML frontmatter
-- Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
+- Use wikilinks (double brackets, e.g. `[[project-overview]]`) to link between pages (minimum 2 outbound links per page)
 - When updating, always bump `updated` date
 - Every new page added to `index.md`
 - Every action appended to `log.md`
